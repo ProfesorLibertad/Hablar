@@ -1,5 +1,4 @@
 #!/bin/bash
-#Hebert
 #Convierte texto en ogg, pero necesita a espeak-ng
 
 # Pedir al usuario que ingrese un texto
